@@ -1,8 +1,8 @@
 # 💃 karros-playground 🕺
 
 ## Programvare 👾
-Atom Editor - https://atom.io/
-Python - https://www.python.org/ftp/python/3.7.4/python-3.7.4-macosx10.9.pkg
+1. Atom Editor - https://atom.io/
+2. Python - https://www.python.org/ftp/python/3.7.4/python-3.7.4-macosx10.9.pkg
 
 
 ### [Uke 1](https://www.uio.no/studier/emner/matnat/ifi/IN1000/h18/ressurser-per-uke/uke01.html):
