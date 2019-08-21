@@ -2,6 +2,7 @@
 
 ## Programvare 👾
 Atom Editor - https://atom.io/
+
 Python - https://www.python.org/ftp/python/3.7.4/python-3.7.4-macosx10.9.pkg
 
 
