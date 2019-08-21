@@ -2,13 +2,12 @@
 
 ## Programvare 👾
 Atom Editor - https://atom.io/
-
 Python - https://www.python.org/ftp/python/3.7.4/python-3.7.4-macosx10.9.pkg
 
 
-Introduksjonsvideo: https://screencast.uninett.no/relay/ansatt/siriamjuio.no/2018/21.08/5566200/in1000-uke-praktisk_-_20180821_134803_38.html
-
 ### [Uke 1](https://www.uio.no/studier/emner/matnat/ifi/IN1000/h18/ressurser-per-uke/uke01.html):
+**Introduksjonsvideo:** https://screencast.uninett.no/relay/ansatt/siriamjuio.no/2018/21.08/5566200/in1000-uke-praktisk_-_20180821_134803_38.html
+
 1. https://screencast.uninett.no/relay/ansatt/geirksauio.no/2018/22.08/1048430/time1_red_-_20180828_094510_36.html
 
 2. https://screencast.uninett.no/relay/ansatt/geirksauio.no/2018/22.08/2720778/time2_red_-_20180828_095039_36.html
